@@ -8,11 +8,11 @@
     <artifactId>jzo2o-foundations</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-<!--    <parent>-->
-<!--        <artifactId>jzo2o-parent</artifactId>-->
-<!--        <groupId>com.jzo2o</groupId>-->
-<!--        <version>1.0-SNAPSHOT</version>-->
-<!--    </parent>-->
+    <parent>
+        <artifactId>jzo2o-parent</artifactId>
+        <groupId>com.jzo2o</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
